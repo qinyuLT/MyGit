@@ -1,10 +1,21 @@
 # MyGit
 test
 
+| 表头1  | 表头2|
+| ---------- | -----------|
+| 表格单元   | 表格单元   |
+| 表格单元   | 表格单元   |
+
+| 左对齐 | 居中  | 右对齐 |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 [我的博客](http://blog.csdn.net/le_temps "悬停显示")</br>
 * 昵称：Le Temps  
 * 别名：时光  
-* 英文名：xxx
+* 英文名：[Amadeus]()
 * 编程语言  
     * 脚本语言  
         * Python 
